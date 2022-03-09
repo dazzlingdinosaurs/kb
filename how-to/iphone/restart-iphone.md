@@ -1,6 +1,6 @@
 # Restart iPhone
 
-> Restarting your iPhone can resolve various issues
+> :information_source: Restarting your iPhone can resolve various issues
 
 ## Apple Support
 
