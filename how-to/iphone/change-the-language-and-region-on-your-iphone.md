@@ -6,7 +6,7 @@
 
 ## Related
 
-:paperclip: [Change the date and time on your iPhone]()
+:paperclip: [Change the date and time on your iPhone](change-the-date-and-time-on-your-iphone.md)
 
 ## Apple Support
 

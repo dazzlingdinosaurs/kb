@@ -10,7 +10,7 @@
 
 ## Related
 
-:paperclip: [Update the CoPilot app on your iPhone]()
+:paperclip: [Update the CoPilot app on your iPhone](update-the-copilot-app-on-your-iphone.md)
 
 ## Apple Support
 

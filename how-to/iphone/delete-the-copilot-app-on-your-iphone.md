@@ -10,7 +10,7 @@
 
 ## Related
 
-:paperclip: [Download the CoPilot app on your iPhone]()
+:paperclip: [Download the CoPilot app on your iPhone](download-the-copilot-app-on-your-iphone.md)
 
 ## Apple Support
 

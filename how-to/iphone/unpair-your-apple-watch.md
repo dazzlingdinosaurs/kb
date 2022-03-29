@@ -12,7 +12,7 @@
 
 ## Related
 
-:paperclip: [Pair your Apple Watch with iPhone]()
+:paperclip: [Pair your Apple Watch with iPhone](pair-your-apple-watch-with-iphone.md)
 
 ## Apple Support
 

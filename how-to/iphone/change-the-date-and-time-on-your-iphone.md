@@ -6,7 +6,7 @@
 
 ## Related
 
-:paperclip: [Change the language and region on your iPhone]()
+:paperclip: [Change the language and region on your iPhone](change-the-language-and-region-on-your-iphone.md)
 
 ## Apple Support
 

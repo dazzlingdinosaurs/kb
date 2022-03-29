@@ -1,0 +1,20 @@
+# Connect your Apple Watch to Wi-Fi
+
+> :information_source: If you have Apple Watch Series 6, you can connect to 2.4 GHz or 5 GHz Wi-Fi networks.
+Apple Watch Series 5 and earlier, and Apple Watch SE, can only connect to 2.4 GHz Wi-Fi networks.
+
+1. Open the Settings app on your Apple Watch
+
+2. Tap **Wi-Fi** (*your device automatically searches for networks*)
+
+3. Tap the name of the network that you want to join
+
+4. If asked, enter the password using [Scribble](https://support.apple.com/kb/HT206907) or the Apple Watch keyboard
+
+5. Tap **Join**
+
+![watchos5-series4-settings-wifi](jpg/1a04a5406e3b8bcfde22a13874186f08dcc5162a.jpg)
+
+## Apple Support
+
+:link: [Connect your Apple Watch to Wi-Fi](https://support.apple.com/en-us/HT209071)

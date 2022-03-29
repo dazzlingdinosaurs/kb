@@ -10,7 +10,7 @@
 
 ## Related
 
-:paperclip: [Update the CoPilot app on your Apple Watch]()
+:paperclip: [Update the CoPilot app on your Apple Watch](../apple-watch/update-the-copilot-app-on-your-apple-watch.md)
 
 ## Apple Support
 
