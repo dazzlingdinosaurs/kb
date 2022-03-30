@@ -1,8 +1,8 @@
 # Change the date and time on your iPhone
 
-1. Go to **Settings** → **General** → **Date & Time**
+Go to **Settings** → **General** → **Date & Time**
 
-2. Turn on **Set Automatically** (iPhone gets the correct time over the network and updates it for the time zone you're in)
+Turn on **Set Automatically** (iPhone gets the correct time over the network and updates it for the time zone you're in)
 
 ## Related
 

@@ -1,10 +1,10 @@
 # Pair your Apple Watch with iPhone
 
-1. Put your Apple Watch on your wrist
+Put your Apple Watch on your wrist
 
-2. To turn on your Apple Watch, press and hold the side button until you see the Apple logo
+To turn on your Apple Watch, press and hold the side button until you see the Apple logo
 
-3. Bring your iPhone near your Apple Watch, wait for the Apple Watch pairing screen to appear on your iPhone, then tap **Continue**
+Bring your iPhone near your Apple Watch, wait for the Apple Watch pairing screen to appear on your iPhone, then tap **Continue**
 
 ## Apple Support
 

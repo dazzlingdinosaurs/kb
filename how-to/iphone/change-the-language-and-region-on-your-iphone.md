@@ -1,8 +1,8 @@
 # Change the language and region on your iPhone
 
-1. Go to Settings → General → Language & Region
+Go to **Settings** → **General** → **Language & Region**
 
-2. Set Calendar to Gregorian
+Set Calendar to `Gregorian`
 
 ## Related
 

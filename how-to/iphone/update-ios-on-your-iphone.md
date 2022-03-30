@@ -2,9 +2,9 @@
 
 At any time, you can check for and install software updates
 
-1. Go to **Settings** → **General** → **Software Update**
+Go to **Settings** → **General** → **Software Update**
 
-2. The screen shows the currently installed version of iOS and whether an update is available
+The screen shows the currently installed version of iOS and whether an update is available
 
 ## Apple Support
 

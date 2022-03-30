@@ -2,11 +2,11 @@
 
 > :information_source: If your Apple Watch is charging, take it off the charger first. When your watch is charging, you can't restart it.
 
-1. Press and hold the side button until you see the **Power Off** slider
+Press and hold the side button until you see the **Power Off** slider
 
-2. Drag the **Power Off** slider
+Drag the **Power Off** slider
 
-3. After your watch turns off, press and hold the side button again until you see the Apple logo
+After your watch turns off, press and hold the side button again until you see the Apple logo
 
 ![watchos5-series4-restart-watch-power-off](jpg/b4642c08698da0efea82f7ed061518726865192c.jpg)
 
