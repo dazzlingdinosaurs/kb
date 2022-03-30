@@ -2,7 +2,7 @@
 
 Go to **Settings** → **General** → **Date & Time**
 
-Turn on **Set Automatically** (iPhone gets the correct time over the network and updates it for the time zone you're in)
+Turn on **Set Automatically** (*iPhone gets the correct time over the network and updates it for the time zone you're in*)
 
 ## Related
 
