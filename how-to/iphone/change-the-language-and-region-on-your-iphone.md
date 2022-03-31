@@ -2,7 +2,7 @@
 
 Go to **Settings** → **General** → **Language & Region**
 
-Set Calendar to `Gregorian`
+Set Calendar to **Gregorian**
 
 ## Related
 
