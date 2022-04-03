@@ -4,7 +4,7 @@ On your iPhone, open the Apple Watch app
 
 Tap the **My Watch** tab, then tap **Privacy** → **Reset Fitness Calibration Data**
 
-![ios12-iphone-x-watch-my-watch-privacy](jpg/6d900ff550dd2963c391748c6bafd0ef3383fd07.jpg)
+<img src="jpg/6d900ff550dd2963c391748c6bafd0ef3383fd07.jpg" width="350">
 
 ## Apple Support
 

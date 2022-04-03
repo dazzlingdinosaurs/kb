@@ -4,7 +4,7 @@ Touch and hold the app
 
 Tap **Remove App**
 
-![iphone-touch-hold-app-edit-menu](jpg/e9f51570762b33011412b8438c9687aeb251316d.jpg)
+<img src="jpg/e9f51570762b33011412b8438c9687aeb251316d.jpg" width="350">
 
 Tap **Delete App**, then tap **Delete** to confirm
 

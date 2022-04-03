@@ -6,11 +6,11 @@ On your iPhone, tap the CoPilot app icon
 
 Go to the **Guest Pass** tab
 
-![copilot-iphone-guest-passes](png/5b3339a31bd5016ab7169015fc7127b2e4113ed5.png)
+<img src="png/5b3339a31bd5016ab7169015fc7127b2e4113ed5.png" width="375">
 
 Tap **Send Guest Pass**, enter the name and email address of your recipient or tap **Select From Contacts**
 
-![copilot-iphone-guest-passes-send](png/965210b51f155717b9b0ba93f98898f601b0b5f1.png)
+<img src="png/965210b51f155717b9b0ba93f98898f601b0b5f1.png" width="375">
 
 Tap **Send**
 

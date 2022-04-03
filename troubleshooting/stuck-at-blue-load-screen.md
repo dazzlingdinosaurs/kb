@@ -6,4 +6,4 @@ If you're still stuck, follow steps to [Share health and fitness data with apps]
 
 - In the last step, tap **Turn Off All** to disable data sharing with the Apple Health app
 
-![copilot-iphone-login-vanilla](png/782bb5214c0ed4b8b5e78f4a03c24a07d807e324.png)
+<img src="png/782bb5214c0ed4b8b5e78f4a03c24a07d807e324.png" width="375">

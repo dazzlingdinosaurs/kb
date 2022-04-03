@@ -12,7 +12,7 @@ If your Home screen is in list view, swipe left on the app that you want to dele
 
 Press the digital crown to finish
 
-![watchos7-series6-delete-app](jpg/7a331fc03786dd6bde9eae163c89dd23ccdadbb0.jpg)
+<img src="jpg/7a331fc03786dd6bde9eae163c89dd23ccdadbb0.jpg" width="225">
 
 ## Related
 

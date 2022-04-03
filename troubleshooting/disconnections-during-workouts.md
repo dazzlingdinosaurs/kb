@@ -7,7 +7,7 @@
 
 [Check your Apple Watch connection](if-your-apple-watch-isnt-connected-or-paired-with-your-iphone.md)
 
-[Restart iPhone]()
+[Restart iPhone](../how-to/iphone/restart-iphone.md)
 
 [Restart Apple Watch](../how-to/apple-watch/restart-apple-watch.md)
 

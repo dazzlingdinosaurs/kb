@@ -13,7 +13,7 @@ If asked, enter the password using [Scribble](https://support.apple.com/kb/HT206
 
 Tap **Join**
 
-![watchos5-series4-settings-wifi](jpg/1a04a5406e3b8bcfde22a13874186f08dcc5162a.jpg)
+<img src="jpg/1a04a5406e3b8bcfde22a13874186f08dcc5162a.jpg" width="225">
 
 ## Apple Support
 

@@ -8,7 +8,7 @@ Drag the **Power Off** slider
 
 After your watch turns off, press and hold the side button again until you see the Apple logo
 
-![watchos5-series4-restart-watch-power-off](jpg/b4642c08698da0efea82f7ed061518726865192c.jpg)
+<img src="jpg/b4642c08698da0efea82f7ed061518726865192c.jpg" width="320">
 
 ## Apple Support
 
