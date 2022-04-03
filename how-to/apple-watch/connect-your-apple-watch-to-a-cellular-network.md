@@ -8,11 +8,11 @@ When your watch connects to a cellular network, you can check the signal strengt
 The Cellular button turns green when you have a connection.
 The green dots show the signal strength.
 
-![watchos5-series4-gps-cellular-connected-status](jpg/872898295afc27bf1105be0686b44ea3753bcc5a.jpg)
+<img src="jpg/872898295afc27bf1105be0686b44ea3753bcc5a.jpg" width=50% height=50%>
 
 The Cellular button turns white when your cellular plan is active, but your watch is connected to your iPhone using Bluetooth or Wi-Fi.
 
-![watchos5-series4-control-center-cell-plan-active-watch-connected-to-iphone](jpg/ee48aacb2513043a87f09cef48fd9947a2e9a869.jpg)
+<img src="jpg/ee48aacb2513043a87f09cef48fd9947a2e9a869.jpg" width=50% height=50%>
 
 ## Related
 
