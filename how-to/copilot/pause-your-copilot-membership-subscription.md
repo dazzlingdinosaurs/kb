@@ -1,7 +1,5 @@
 # Pause your CoPilot Membership Subscription
 
-> :information_source: You will not be charged while your membership subscription is paused. The pause has no effect if the paused duration is less than one month and occurs between billing cycles.
-
 On your iPhone, tap the CoPilot app icon
 
 Go to the **Home** tab, then tap your profile icon in the top left

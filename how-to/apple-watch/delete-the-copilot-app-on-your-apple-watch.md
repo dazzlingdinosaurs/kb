@@ -1,7 +1,5 @@
 # Delete the CoPilot app on your Apple Watch
 
-> :information_source:
-
 Press the digital crown to see all your apps on the Home Screen
 
 If your Home Screen is in grid view, touch and hold an app lightly until the app icons jiggle

@@ -16,7 +16,7 @@ Scroll to view a list of coaches
 
 - If you want to load more coaches tap **See more coaches** at the bottom of the list
 
-Tap **Learn more** to read a short bio of each coach
+Tap **Learn more** to read a description of each coach
 
 - Once you’ve made your selection, tap **Train with** to schedule an onboarding call
 

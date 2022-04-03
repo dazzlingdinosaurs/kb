@@ -8,7 +8,7 @@ Tap the **My Watch** tab
 
 Apps that you can install appear in the **Available Apps** section
 
-To add an app to your watch, tap **Install**
+To add an app to your watch, tap **INSTALL**
 
 <img src="jpg/8771efdac9b671cd0d308ca7ff0d0de486a0f5f8.jpg" width="360">
 
