@@ -1,6 +1,8 @@
 # Send a Guest Pass
 
-> :information_source: You earn 2 guest passes after completing your first two workouts, then 1 guest pass for every eight workouts completed
+```{note}
+You earn 2 guest passes after completing your first two workouts, then 1 guest pass for every eight workouts completed
+```
 
 On your iPhone, tap the CoPilot app icon
 
@@ -18,4 +20,6 @@ Recipients will receive an email message containing a special sign-up link
 
 They must follow the link and complete the sign-up process to get a 30-day free trial
 
-> :warning: Each Guest Pass is redeemable by one person only
+```{warning}
+Each Guest Pass is redeemable by one person only
+```

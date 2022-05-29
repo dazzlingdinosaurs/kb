@@ -29,6 +29,8 @@ author = 'CoPilot Support Team'
 # ones.
 extensions = ['myst_parser']
 
+myst_enable_extensions = ['html_image']
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 

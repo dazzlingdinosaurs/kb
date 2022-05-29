@@ -12,8 +12,8 @@ Tap **Unpair Apple Watch**
 
 ## Related
 
-:paperclip: [Pair your Apple Watch with iPhone](pair-your-apple-watch-with-iphone.md)
+📌 [Pair your Apple Watch with iPhone](pair-your-apple-watch-with-iphone.md)
 
 ## Apple Support
 
-:link: [Unpair and erase your Apple Watch](https://support.apple.com/en-us/HT204568)
+🔗 [Unpair and erase your Apple Watch](https://support.apple.com/en-us/HT204568)

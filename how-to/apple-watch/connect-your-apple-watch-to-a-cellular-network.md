@@ -16,8 +16,8 @@ The Cellular button turns white when your cellular plan is active, but your watc
 
 ## Related
 
-:paperclip: [Use Control Center on your Apple Watch](use-control-center-on-your-apple-watch.md)
+📌 [Use Control Center on your Apple Watch](use-control-center-on-your-apple-watch.md)
 
 ## Apple Support
 
-:link: [Set up cellular on Apple Watch](https://support.apple.com/en-us/HT207578)
+🔗 [Set up cellular on Apple Watch](https://support.apple.com/en-us/HT207578)

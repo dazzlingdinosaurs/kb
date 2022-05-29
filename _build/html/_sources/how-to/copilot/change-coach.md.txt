@@ -1,6 +1,8 @@
 # Change Coach
 
-> :information_source: You may change coaches at any time for any reason
+```{note}
+You may change coaches at any time for any reason
+```
 
 On your iPhone, tap the CoPilot app icon
 

@@ -12,4 +12,4 @@ Please include:
 
 ## Related
 
-:paperclip: [Delete the CoPilot app on your iPhone](../iphone/delete-the-copilot-app-on-your-iphone.md)
+📌 [Delete the CoPilot app on your iPhone](../iphone/delete-the-copilot-app-on-your-iphone.md)

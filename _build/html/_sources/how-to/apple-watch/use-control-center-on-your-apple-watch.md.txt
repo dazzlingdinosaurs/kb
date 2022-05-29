@@ -16,4 +16,4 @@ Swipe down from the top of the watch face, or press the digital crown
 
 ## Apple Support
 
-:link: [Use Control Center on your Apple Watch](https://support.apple.com/en-us/HT206951)
+🔗 [Use Control Center on your Apple Watch](https://support.apple.com/en-us/HT206951)

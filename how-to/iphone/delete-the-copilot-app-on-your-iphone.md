@@ -10,8 +10,8 @@ Tap **Delete App**, then tap **Delete** to confirm
 
 ## Related
 
-:paperclip: [Download the CoPilot app on your iPhone](download-the-copilot-app-on-your-iphone.md)
+📌 [Download the CoPilot app on your iPhone](download-the-copilot-app-on-your-iphone.md)
 
 ## Apple Support
 
-:link: [Delete apps on your iPhone, iPad, and iPod touch](https://support.apple.com/en-us/HT207618)
+🔗 [Delete apps on your iPhone, iPad, and iPod touch](https://support.apple.com/en-us/HT207618)

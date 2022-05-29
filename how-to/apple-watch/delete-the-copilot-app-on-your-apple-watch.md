@@ -14,8 +14,8 @@ Press the digital crown to finish
 
 ## Related
 
-:paperclip: [Download the CoPilot app on your Apple Watch](download-the-copilot-app-on-your-apple-watch.md)
+📌 [Download the CoPilot app on your Apple Watch](download-the-copilot-app-on-your-apple-watch.md)
 
 ## Apple Support
 
-:link: [Delete apps from your Apple Watch](https://support.apple.com/en-us/HT212064)
+🔗 [Delete apps from your Apple Watch](https://support.apple.com/en-us/HT212064)

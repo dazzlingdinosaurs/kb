@@ -1,6 +1,8 @@
 # Download the CoPilot app on your Apple Watch
 
+```{tip}
 You can manage Apple Watch apps directly on your watch, or using the Watch app on your iPhone
+```
 
 On your iPhone, open the Watch app
 
@@ -14,4 +16,4 @@ To add an app to your watch, tap **INSTALL**
 
 ## Apple Support
 
-|:link:| [Download apps on your Apple Watch](https://support.apple.com/en-us/HT204784)
+🔗 [Download apps on your Apple Watch](https://support.apple.com/en-us/HT204784)

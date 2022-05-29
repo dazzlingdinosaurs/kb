@@ -28,4 +28,4 @@ Tap **Done**
 
 ## Apple Support
 
-:link: [Use the Health app on your iPhone or iPod touch](https://support.apple.com/en-us/HT203037)
+🔗 [Use the Health app on your iPhone or iPod touch](https://support.apple.com/en-us/HT203037)

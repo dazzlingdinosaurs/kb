@@ -1,6 +1,6 @@
 # Take a screenshot on Apple Watch
 
-Open the Settings app on your Apple Watch
+On your Apple Watch, open the Settings app
 
 Tap **General**, then tap **Screenshots**
 
@@ -16,4 +16,4 @@ To find your screenshot, go to the Photos app on your iPhone
 
 ## Apple Support
 
-:link: [Take a screenshot on Apple Watch](https://support.apple.com/en-us/HT204673)
+🔗 [Take a screenshot on Apple Watch](https://support.apple.com/en-us/HT204673)

@@ -20,4 +20,4 @@ The option to **Pause subscription** will appear
 
 ## Related
 
-:paperclip: [Cancel your CoPilot Membership Subscription](pause-your-copilot-membership-subscription.md)
+📌 [Cancel your CoPilot Membership Subscription](pause-your-copilot-membership-subscription.md)

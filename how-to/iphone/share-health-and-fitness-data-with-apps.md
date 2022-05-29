@@ -20,8 +20,8 @@ To change access for CoPilot, tap it, then turn on or off permission to read/wri
 
 ## Apple Support
 
-:link: [Share your data in Health on iPhone](https://support.apple.com/guide/iphone/share-your-health-data-iph5ede58c3d/ios)
+🔗 [Share your data in Health on iPhone](https://support.apple.com/guide/iphone/share-your-health-data-iph5ede58c3d/ios)
 
-:link: [Use the Health app on your iPhone or iPod touch](https://support.apple.com/en-us/HT203037)
+🔗 [Use the Health app on your iPhone or iPod touch](https://support.apple.com/en-us/HT203037)
 
-:link: [Use the Workout app on your Apple Watch](https://support.apple.com/en-us/HT204523)
+🔗 [Use the Workout app on your Apple Watch](https://support.apple.com/en-us/HT204523)

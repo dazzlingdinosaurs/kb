@@ -16,4 +16,4 @@ Tap **Cancel Plan**
 
 ## Related
 
-:paperclip: [Pause your CoPilot Membership Subscription](pause-your-copilot-membership-subscription.md)
+📌 [Pause your CoPilot Membership Subscription](pause-your-copilot-membership-subscription.md)
