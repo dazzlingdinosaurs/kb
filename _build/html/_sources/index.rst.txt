@@ -1,5 +1,5 @@
 CoPilot Knowledge Base
-==================================================
+======================
 
 Welcome! Here, you can find how-to and troubleshooting articles for the iPhone, Apple Watch and the CoPilot app
 
@@ -10,29 +10,36 @@ Our support team is happy to help!
 ----
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
+   :caption: Articles 📝
    :glob:
-   :caption: How-to ⌚ Apple Watch:
+
+   blog/*
+
+.. toctree::
+   :titlesonly:
+   :caption: How-to ⌚ Apple Watch
+   :glob:
 
    how-to/apple-watch/*
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
+   :caption: How-to 📱 iPhone
    :glob:
-   :caption: How-to 📱 iPhone:
 
    how-to/iphone/*
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
+   :caption: How-to 💪 CoPilot
    :glob:
-   :caption: How-to 💪 CoPilot:
 
    how-to/copilot/*
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
+   :caption: Troubleshooting 🎯
    :glob:
-   :caption: Troubleshooting:
 
    troubleshooting/*

@@ -1,14 +1,14 @@
 # Download the CoPilot app on your iPhone
 
-```{tip}
+```{hint}
 You may have to search for *CoPilot Coaching* or *CoPilot Fitness* to find the app
 ```
 
-On your iPhone, tap the App Store app icon
+- On your iPhone, open the App Store app
 
-Browse or search for the app that you want to download
+- Browse or search for the app that you want to download
 
-Tap the **Get** button
+- Tap the **Get** button
 
 ## Related
 

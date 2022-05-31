@@ -1,14 +1,14 @@
 # Update the CoPilot app on your Apple Watch
 
-On your Apple Watch, open the App Store app
+- On your Apple Watch, open the App Store app
 
-Scroll down to the bottom
+- Scroll down to the bottom
 
-Tap **Account**
+- Tap **Account**
 
-Tap **Updates**
+- Tap **Updates**
 
-Tap **Update** next to the CoPilot app to update only that app or tap **Update All**
+- Tap **Update** next to the CoPilot app to update only that app or tap **Update All**
 
 ## Related
 

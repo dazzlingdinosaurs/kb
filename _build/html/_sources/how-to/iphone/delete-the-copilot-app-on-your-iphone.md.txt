@@ -1,12 +1,12 @@
 # Delete the CoPilot app on your iPhone
 
-Touch and hold the app
+- Touch and hold the app
 
-Tap **Remove App**
+- Tap **Remove App**
 
 <img src="jpg/e9f51570762b33011412b8438c9687aeb251316d.jpg" width="350">
 
-Tap **Delete App**, then tap **Delete** to confirm
+- Tap **Delete App**, then tap **Delete** to confirm
 
 ## Related
 

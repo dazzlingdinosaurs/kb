@@ -1,12 +1,12 @@
 # Update the CoPilot app on your iPhone
 
-On your iPhone, tap the App Store app icon
+- On your iPhone, open the App Store app
 
-Tap your profile icon at the top of the screen
+- Tap your profile icon at the top of the screen
 
-Scroll to see pending updates and release notes
+- Scroll to see pending updates and release notes
 
-Tap **Update** next to the CoPilot app to update only that app or tap **Update All**
+- Tap **Update** next to the CoPilot app to update only that app or tap **Update All**
 
 ## Related
 

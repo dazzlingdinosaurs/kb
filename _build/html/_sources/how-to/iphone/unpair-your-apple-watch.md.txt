@@ -1,14 +1,16 @@
 # Unpair your Apple Watch
 
+```{tip}
 Keep your Apple Watch and iPhone close together as you unpair them
+```
 
-Open the Apple Watch app on your iPhone
+- On your iPhone, open the Watch app
 
-Go to the **My Watch** tab and tap **All Watches**
+- Go to the **My Watch** tab and tap **All Watches**
 
-Tap the info button next to the watch that you want to unpair
+- Tap the info button next to the watch that you want to unpair
 
-Tap **Unpair Apple Watch**
+- Tap **Unpair Apple Watch**
 
 ## Related
 

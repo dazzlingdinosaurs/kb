@@ -13,4 +13,4 @@ For example, if compatible Wi-Fi is available and your iPhone isn't in Bluetooth
 
 ## Apple Support
 
-:link: [About Bluetooth, Wi-Fi, and cellular on your Apple Watch](https://support.apple.com/en-us/HT204562)
+🔗 [About Bluetooth, Wi-Fi, and cellular on your Apple Watch](https://support.apple.com/en-us/HT204562)

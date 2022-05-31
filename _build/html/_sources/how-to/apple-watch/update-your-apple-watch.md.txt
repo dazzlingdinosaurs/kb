@@ -2,11 +2,11 @@
 
 You can update your Apple Watch software by checking for updates in the Apple Watch app on your iPhone
 
-On your iPhone, open the Apple Watch app
+- On your iPhone, open the Watch app
 
-Tap **My Watch** then tap **General** → **Software Update**
+- Tap **My Watch** then tap **General** → **Software Update**
 
-If an update is available, tap **Download and Install**
+- If an update is available, tap **Download and Install**
 
 ## Apple Support
 

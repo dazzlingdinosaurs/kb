@@ -1,7 +1,9 @@
 # Calibrating your Apple Watch for improved accuracy
 
-> :information_source: Your Apple Watch uses your personal information — such as your height, weight, gender, and age — to calculate how many calories you burn and more.
+```{tip}
+Your Apple Watch uses your personal information — such as your height, weight, gender, and age — to calculate how many calories you burn and more.
 Calibrate your Apple Watch to improve the accuracy of your distance, pace, and calorie measurements.
+```
 
 1. While wearing your Apple Watch, go to a flat, open outdoor area that offers good GPS reception and clear skies
 
@@ -9,13 +11,12 @@ Calibrate your Apple Watch to improve the accuracy of your distance, pace, and c
 
 3. Walk or run at your normal pace for about 20 minutes
 
-
 ## Related
 
-:paperclip: [Reset calibration data on your Apple Watch](../how-to/apple-watch/reset-calibration-data-on-your-apple-watch.md)
+📌 [Reset calibration data on your Apple Watch](../how-to/apple-watch/reset-calibration-data-on-your-apple-watch.md)
 
 ## Apple Support
 
-:link: [Get the most accurate measurements using your Apple Watch](https://support.apple.com/en-us/HT207941)
+🔗 [Get the most accurate measurements using your Apple Watch](https://support.apple.com/en-us/HT207941)
 
-:link: [Calibrating your Apple Watch for improved Workout and Activity accuracy](https://support.apple.com/en-us/HT204516)
+🔗 [Calibrating your Apple Watch for improved Workout and Activity accuracy](https://support.apple.com/en-us/HT204516)
