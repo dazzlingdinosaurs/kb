@@ -18,17 +18,17 @@ Our support team is happy to help!
 
 .. toctree::
    :titlesonly:
-   :caption: How-to ⌚ Apple Watch
-   :glob:
-
-   how-to/apple-watch/*
-
-.. toctree::
-   :titlesonly:
    :caption: How-to 📱 iPhone
    :glob:
 
    how-to/iphone/*
+
+.. toctree::
+   :titlesonly:
+   :caption: How-to ⌚ Apple Watch
+   :glob:
+
+   how-to/apple-watch/*
 
 .. toctree::
    :titlesonly:
