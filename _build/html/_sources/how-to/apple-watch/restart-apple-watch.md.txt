@@ -12,6 +12,8 @@ If your Apple Watch is charging, take it off the charger first. When your watch 
 
 <img src="jpg/b4642c08698da0efea82f7ed061518726865192c.jpg" width="320">
 
+---
+
 ## Apple Support
 
 🔗 [Restart your Apple Watch](https://support.apple.com/en-us/HT204510)

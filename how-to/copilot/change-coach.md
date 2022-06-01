@@ -10,9 +10,13 @@ You may change coaches at any time for any reason
 
 <img src="png/08071464840337ea3e66f691a3f4ffdbd5f1d237.png" width="375">
 
+&nbsp;
+
 - Tap **Change Coach**
 
 <img src="png/1a09c53b7a7371b883598d1b33f44ef794d0e75e.png" width="375">
+
+&nbsp;
 
 - Scroll to view a list of coaches
 
@@ -20,13 +24,17 @@ You may change coaches at any time for any reason
 
 - Tap **Learn more** to read a description of each coach
 
-- Once you’ve made your selection, tap **Train with** to schedule an onboarding call
+- Once you've made your selection, tap **Train with** to schedule an onboarding call
 
 <img src="png/cc0fb145fc1ebd9d2f66a667b07898c19c264889.png" width="375">
+
+&nbsp;
 
 - Select a date and time that works best for you
 
 <img src="png/12669889fb94b0b39f61fc8672258bde3bd222b2.png" width="375">
+
+&nbsp;
 
 - Input your name, email address and phone number then tap **Schedule Event**
 
