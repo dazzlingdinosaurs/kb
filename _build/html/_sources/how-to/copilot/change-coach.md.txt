@@ -6,15 +6,15 @@ You may change coaches at any time for any reason
 
 - On your iPhone, open the CoPilot app
 
-- Go to the **Home** tab, then tap your profile icon in the top left
+- Go to the **Today** tab, then tap your profile icon in the top left
 
-<img src="png/08071464840337ea3e66f691a3f4ffdbd5f1d237.png" width="375">
+<img src="png/b62eb6203b59aa1129499020860f0a01.png" width="375">
 
 &nbsp;
 
 - Tap **Change Coach**
 
-<img src="png/1a09c53b7a7371b883598d1b33f44ef794d0e75e.png" width="375">
+<img src="png/b0a6f16ed68de75be4725fb718d2f30f.png" width="375">
 
 &nbsp;
 
@@ -24,9 +24,9 @@ You may change coaches at any time for any reason
 
 - Tap **Learn more** to read a description of each coach
 
-- Once you've made your selection, tap **Train with** to schedule an onboarding call
+- Once you've made your selection, tap **Switch** to schedule an onboarding call
 
-<img src="png/cc0fb145fc1ebd9d2f66a667b07898c19c264889.png" width="375">
+<img src="png/7189e13d4ac67d5cca43178920fa891d.png" width="375">
 
 &nbsp;
 

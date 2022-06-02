@@ -6,15 +6,17 @@ You earn 2 guest passes after completing your first two workouts, then 1 guest p
 
 - On your iPhone, open the CoPilot app
 
-- Go to the **Guest Pass** tab
+- Go to the **Guest Pass** tab then tap **Send Guest Pass**
 
-<img src="png/5b3339a31bd5016ab7169015fc7127b2e4113ed5.png" width="375">
+<img src="png/ffdd0287f4d682163b013df8691ff370.png" width="375">
 
 &nbsp;
 
-- Tap **Send Guest Pass**, enter the name and email address of your recipient or tap **Select From Contacts**
+- Enter the name, phone number and/or email address of your recipient
 
-<img src="png/965210b51f155717b9b0ba93f98898f601b0b5f1.png" width="375">
+- To view your list of contacts tap **Select From Contacts**
+
+<img src="png/632963a6584eb809fb0ff0fe39c2ccbb.png" width="375">
 
 &nbsp;
 

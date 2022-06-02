@@ -6,4 +6,4 @@
 
     - In the last step, tap **Turn Off All** to disable data sharing with the Apple Health app
 
-<img src="png/782bb5214c0ed4b8b5e78f4a03c24a07d807e324.png" width="375">
+<img src="png/0fd0817b75cf5cf1dafbd7e33839670c.png" width="375">
