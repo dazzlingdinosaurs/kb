@@ -1,4 +1,4 @@
-# Cancel your CoPilot Membership Subscription
+# Pause your CoPilot Membership Plan
 
 - On your iPhone, open the CoPilot app
 
@@ -18,8 +18,14 @@
 
 <img src="png/d5e74f3a3147243236b0ae5d50412f3fce7c47f4.png" width="390">
 
+&nbsp;
+
+- The option to **Pause subscription** will appear
+
+<img src="png/1a75e3e6904321f71f887a512baeded04f45b33d.png" width="390">
+
 ---
 
 ## Related
 
-📌 [Pause your CoPilot Membership Subscription](pause-copilot.md)
+📌 [Cancel your CoPilot Membership Subscription](cancel-copilot.md)
