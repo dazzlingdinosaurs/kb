@@ -16,7 +16,7 @@
 
 ## Related
 
-📌 [Download the CoPilot app on your Apple Watch](download-copilot-apple-watch.md)
+📌 [Download the CoPilot app on your Apple Watch](download-copilot.md)
 
 ## Apple Support
 

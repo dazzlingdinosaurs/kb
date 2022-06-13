@@ -10,7 +10,7 @@
 
 ## Related
 
-📌 [Change the date and time on your iPhone](date-time-iphone.md)
+📌 [Change the date and time on your iPhone](date-time.md)
 
 ## Apple Support
 

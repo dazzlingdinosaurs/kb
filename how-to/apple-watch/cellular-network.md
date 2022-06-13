@@ -19,7 +19,7 @@ When your watch connects to a cellular network, you can check the signal strengt
 
 ## Related
 
-📌 [Use Control Center on your Apple Watch](control-center-apple-watch.md)
+📌 [Use Control Center on your Apple Watch](control-center.md)
 
 ## Apple Support
 

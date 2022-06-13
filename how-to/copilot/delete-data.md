@@ -14,4 +14,4 @@ Please include:
 
 ## Related
 
-📌 [Delete the CoPilot app on your iPhone](../iphone/delete-copilot-iphone.md)
+📌 [Delete the CoPilot app on your iPhone](../iphone/delete-copilot.md)

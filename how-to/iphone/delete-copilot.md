@@ -12,7 +12,7 @@
 
 ## Related
 
-📌 [Download the CoPilot app on your iPhone](download-copilot-iphone.md)
+📌 [Download the CoPilot app on your iPhone](download-copilot.md)
 
 ## Apple Support
 

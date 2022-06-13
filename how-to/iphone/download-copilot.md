@@ -14,7 +14,7 @@ You may have to search for *CoPilot Coaching* or *CoPilot Fitness* to find the a
 
 ## Related
 
-📌 [Update the CoPilot app on your iPhone](update-copilot-iphone.md)
+📌 [Update the CoPilot app on your iPhone](update-copilot.md)
 
 ## Apple Support
 

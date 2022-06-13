@@ -28,4 +28,4 @@
 
 ## Related
 
-📌 [Cancel your CoPilot Membership Subscription](cancel-copilot.md)
+📌 [Cancel your CoPilot Membership Subscription](cancel.md)

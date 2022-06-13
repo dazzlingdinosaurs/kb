@@ -26,4 +26,4 @@
 
 ## Related
 
-📌 [Pause your CoPilot Membership Subscription](pause-copilot.md)
+📌 [Pause your CoPilot Membership Subscription](pause.md)

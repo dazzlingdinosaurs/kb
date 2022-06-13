@@ -12,7 +12,7 @@
 
 ## Related
 
-📌 [Update the CoPilot app on your Apple Watch](../apple-watch/update-copilot-apple-watch.md)
+📌 [Update the CoPilot app on your Apple Watch](../apple-watch/update-copilot.md)
 
 ## Apple Support
 

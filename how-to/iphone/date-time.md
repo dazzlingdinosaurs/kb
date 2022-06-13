@@ -10,7 +10,7 @@
 
 ## Related
 
-📌 [Change the language and region on your iPhone](language-region-iphone.md)
+📌 [Change the language and region on your iPhone](language-region.md)
 
 ## Apple Support
 
