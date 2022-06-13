@@ -18,6 +18,8 @@
 
 <img src="png/60e08715fb91f13f09495c0658cbeaeb.png" width="375">
 
+&nbsp;
+
 - Provide a reason for canceling then tap **Submit Cancellation**
 
 ---
