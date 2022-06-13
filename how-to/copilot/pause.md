@@ -14,15 +14,15 @@
 
 &nbsp;
 
-- Tap **Cancel Plan**
+- Tap **Pause**
 
-<img src="png/d5e74f3a3147243236b0ae5d50412f3fce7c47f4.png" width="390">
+<img src="png/60e08715fb91f13f09495c0658cbeaeb.png" width="375">
 
 &nbsp;
 
-- The option to **Pause subscription** will appear
+- Provide a reason for pausing, select the duration you would like to pause then tap **Pause**
 
-<img src="png/1a75e3e6904321f71f887a512baeded04f45b33d.png" width="390">
+<img src="png/8a219d35f3c796f0b36ab381a72354ae.png" width="375">
 
 ---
 

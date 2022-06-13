@@ -16,7 +16,9 @@
 
 - Tap **Cancel Plan**
 
-<img src="png/d5e74f3a3147243236b0ae5d50412f3fce7c47f4.png" width="390">
+<img src="png/60e08715fb91f13f09495c0658cbeaeb.png" width="375">
+
+- Provide a reason for canceling then tap **Submit Cancellation**
 
 ---
 
