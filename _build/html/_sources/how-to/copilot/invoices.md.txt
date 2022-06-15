@@ -4,7 +4,7 @@
 
 - Go to the **Today** tab, then tap your profile icon in the top left
 
-<img src="png/b62eb6203b59aa1129499020860f0a01.png" width="375">
+<img src="png/987826ee3b1f79def3297f753c753ff7.png" width="375">
 
 &nbsp;
 
@@ -14,12 +14,6 @@
 
 &nbsp;
 
-- Scroll to *INVOICE HISTORY* and tap on an invoice date to view invoice details
+- Scroll to *Invoices* and tap on **View** to download a copy
 
-<img src="png/4dbea572f44faee47266acbf2b825fdf.png" width="375">
-
-&nbsp;
-
-- Tap **Download invoice** or **Download receipt** to save a copy
-
-<img src="png/0ec51425eba50a95e31a92fd3f5eb5dd.png" width="375">
+<img src="png/a29a6f276e8ca587c656c398e6d9e3dd.png" width="375">

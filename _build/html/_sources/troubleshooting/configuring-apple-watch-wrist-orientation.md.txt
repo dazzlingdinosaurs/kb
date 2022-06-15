@@ -12,7 +12,7 @@
 
 - Go to the **Today** tab, then tap your profile icon in the top left
 
-<img src="png/b62eb6203b59aa1129499020860f0a01.png" width="375">
+<img src="png/987826ee3b1f79def3297f753c753ff7.png" width="375">
 
 &nbsp;
 

@@ -8,7 +8,7 @@ When your devices disconnect, a red phone icon or a red X icon appears on your w
 
 - If you see the red Disconnected icon or the red X icon on the watch face, you don't have a connection
 
-**[Check Control Center](../how-to/apple-watch/control-center-apple-watch.md)**
+**[Check Control Center](../how-to/apple-watch/control-center.md)**
 
 - If you see the red Disconnected icon or the red X icon, you don't have a connection
 
