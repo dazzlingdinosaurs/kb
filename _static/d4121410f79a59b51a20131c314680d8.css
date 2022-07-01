@@ -1,0 +1,5 @@
+.kb-device { display: flex; }
+
+.kb-device-logo { flex-basis: 64px; flex-grow: 1; flex-shrink: 1; padding: 8px 0; border-radius: 3px; background-color: #E6E6FA; text-align: center; }
+
+.kb-device-label { flex-grow: 1; flex-shrink: 1; align-self: center; margin: 0.5em; height: 1em; line-height: 1; }

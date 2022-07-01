@@ -1,7 +1,7 @@
 # Download the CoPilot app on your iPhone
 
 ```{hint}
-You may have to search for *CoPilot Coaching* or *CoPilot Fitness* to find the app
+You may have to search for *CoPilot Coach* to find the app
 ```
 
 - On your iPhone, open the App Store app

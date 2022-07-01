@@ -15,7 +15,7 @@ Calibrate your Apple Watch to improve the accuracy of your distance, pace, and c
 
 ## Related
 
-📌 [Reset calibration data on your Apple Watch](../how-to/apple-watch/reset-calibration-data.md)
+📌 [Reset calibration data on your Apple Watch](/how-to/apple-watch/reset-calibration-data.md)
 
 ## Apple Support
 

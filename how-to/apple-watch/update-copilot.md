@@ -14,7 +14,7 @@
 
 ## Related
 
-📌 [Update the CoPilot app on your iPhone](../iphone/update-copilot.md)
+📌 [Update the CoPilot app on your iPhone](/how-to/iphone/update-copilot.md)
 
 ## Apple Support
 

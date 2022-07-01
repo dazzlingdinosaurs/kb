@@ -1,5 +1,11 @@
 # Cancel your CoPilot Membership Plan
 
+```{eval-rst}
+.. include:: /apple.rst
+```
+
+---
+
 - On your iPhone, open the CoPilot app
 
 - Go to the **Today** tab, then tap your profile icon in the top left
@@ -14,7 +20,7 @@
 
 &nbsp;
 
-- Tap **Cancel Plan**
+- Tap **Cancel**
 
 <img src="png/60e08715fb91f13f09495c0658cbeaeb.png" width="375">
 
@@ -24,6 +30,10 @@
 
 ---
 
+## Android
+
+📌 [Cancel your CoPilot Membership Plan](android/cancel.md)
+
 ## Related
 
-📌 [Pause your CoPilot Membership Subscription](pause.md)
+📌 [Pause your CoPilot Membership Plan](pause.md)

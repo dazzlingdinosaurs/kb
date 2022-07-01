@@ -1,5 +1,9 @@
 # Login to the CoPilot app on your iPhone
 
+```{eval-rst}
+.. include:: /apple.rst
+```
+
 ```{tip}
 You may use either your phone number or email address to login
 ```
@@ -18,15 +22,19 @@ You may use either your phone number or email address to login
 
 - If you used your email to login, check your inbox for a new message from `info@mycopilot.com`
 
-    - On your iPhone, tap the login link
+    - On your iPhone, open the login link
 
 <img src="png/8a14268bbb97109eaaad92e637bf9e2f6edcee4c.png" width="375">
 
 ```{error}
-If you receive a **Login Issue** error message that says "*Couldn’t send verification code*" try adding your Country Code to the beginning of the phone number or try using your email address instead
+If you receive a **Login Issue** error message that says "*Couldn't send verification code*" try adding your Country Code to the beginning of the phone number or try using your email address instead
 ```
 
 ---
+
+## Android
+
+📌 [Login to the CoPilot app on your Android device](android/login.md)
 
 ## Related
 
