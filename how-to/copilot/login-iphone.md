@@ -12,7 +12,11 @@ You may use either your phone number or email address to login
 
 - Input the phone number or email address used to sign-up, then tap **Log In**
 
-<img src="png/5cc238e0c54bf3638d444ad01bcdb63cdc3adffd.png" width="375">
+```{eval-rst}
+.. image:: png/5cc238e0c54bf3638d444ad01bcdb63cdc3adffd.png
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
@@ -24,7 +28,11 @@ You may use either your phone number or email address to login
 
     - On your iPhone, open the login link
 
-<img src="png/8a14268bbb97109eaaad92e637bf9e2f6edcee4c.png" width="375">
+```{eval-rst}
+.. image:: png/8a14268bbb97109eaaad92e637bf9e2f6edcee4c.png
+   :class: kb-img
+   :width: 375px
+```
 
 ```{error}
 If you receive a **Login Issue** error message that says "*Couldn't send verification code*" try adding your Country Code to the beginning of the phone number or try using your email address instead

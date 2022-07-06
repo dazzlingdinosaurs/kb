@@ -6,4 +6,8 @@
 
     - In the last step, tap **Turn Off All** to disable data sharing with the Apple Health app
 
-<img src="png/0fd0817b75cf5cf1dafbd7e33839670c.png" width="375">
+```{eval-rst}
+.. image:: png/0fd0817b75cf5cf1dafbd7e33839670c.png
+   :class: kb-img
+   :width: 375px
+```

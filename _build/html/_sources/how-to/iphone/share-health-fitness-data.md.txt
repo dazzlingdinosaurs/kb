@@ -14,11 +14,19 @@ The CoPilot app can also read workout data from other apps like the Apple Workou
 
 - To change access for CoPilot, tap it, then turn on or off permission to read/write data from Health
 
-<img src="png/e1efd6f9eaa0369d2a6a528ce0e73f318b3244b6.png" width="375">
+```{eval-rst}
+.. image:: png/e1efd6f9eaa0369d2a6a528ce0e73f318b3244b6.png
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
-<img src="png/157fd0eba6939ffe5fd721dce4630568f6178041.png" width="375">
+```{eval-rst}
+.. image:: png/157fd0eba6939ffe5fd721dce4630568f6178041.png
+   :class: kb-img
+   :width: 375px
+```
 
 ---
 

@@ -8,13 +8,21 @@ You may change coaches at any time for any reason
 
 - Go to the **Today** tab, then tap your profile icon in the top left
 
-<img src="png/987826ee3b1f79def3297f753c753ff7.png" width="375">
+```{eval-rst}
+.. image:: png/987826ee3b1f79def3297f753c753ff7.png
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
 - Tap **Change Coach**
 
-<img src="png/b0a6f16ed68de75be4725fb718d2f30f.png" width="375">
+```{eval-rst}
+.. image:: png/b0a6f16ed68de75be4725fb718d2f30f.png
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
@@ -26,13 +34,21 @@ You may change coaches at any time for any reason
 
 - Once you've made your selection, tap **Switch** to schedule an onboarding call
 
-<img src="png/7189e13d4ac67d5cca43178920fa891d.png" width="375">
+```{eval-rst}
+.. image:: png/7189e13d4ac67d5cca43178920fa891d.png
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
 - Select a date and time that works best for you
 
-<img src="png/12669889fb94b0b39f61fc8672258bde3bd222b2.png" width="375">
+```{eval-rst}
+.. image:: png/12669889fb94b0b39f61fc8672258bde3bd222b2.png
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
@@ -40,4 +56,8 @@ You may change coaches at any time for any reason
 
 - A calendar invite will be sent to your email address
 
-<img src="png/3406d5e68288bc1b7f6b9cc45bf7dd666d8e9dbf.png" width="375">
+```{eval-rst}
+.. image:: png/3406d5e68288bc1b7f6b9cc45bf7dd666d8e9dbf.png
+   :class: kb-img
+   :width: 375px
+```

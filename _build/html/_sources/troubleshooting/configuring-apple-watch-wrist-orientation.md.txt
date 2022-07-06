@@ -4,7 +4,11 @@
 
 - Tap **General** then tap **Watch Orientation**
 
-<img src="png/55c0f2f5e4c916f4f040d4f016e7bde3.png" width="375">
+```{eval-rst}
+.. image:: png/55c0f2f5e4c916f4f040d4f016e7bde3.png
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
@@ -12,19 +16,31 @@
 
 - Go to the **Today** tab, then tap your profile icon in the top left
 
-<img src="png/987826ee3b1f79def3297f753c753ff7.png" width="375">
+```{eval-rst}
+.. image:: png/987826ee3b1f79def3297f753c753ff7.png
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
 - Tap **Settings**
 
-<img src="png/a3f0b8683eb60cc22e8e7e451527640d.png" width="375">
+```{eval-rst}
+.. image:: png/a3f0b8683eb60cc22e8e7e451527640d.png
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
 - Toggle **Watch Wrist Location** to Left or Right
 
-<img src="png/0794c06fb95cb195c13cd969346ae29f.png" width="375">
+```{eval-rst}
+.. image:: png/0794c06fb95cb195c13cd969346ae29f.png
+   :class: kb-img
+   :width: 375px
+```
 
 ---
 

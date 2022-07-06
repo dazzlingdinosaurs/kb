@@ -12,7 +12,11 @@ You may use either your phone number or email address to login
 
 - Input the phone number or email address used to sign-up, then tap **Log In**
 
-<img src="jpg/f4a26eaae562f61d25ac59878102250e.jpg" width="375">
+```{eval-rst}
+.. image:: jpg/f4a26eaae562f61d25ac59878102250e.jpg
+   :class: kb-img
+   :width: 375px
+```
 
 &nbsp;
 
@@ -24,7 +28,11 @@ You may use either your phone number or email address to login
 
     - On your Android device, open the login link
 
-<img src="jpg/0c88c3a4bb202564555b0eebc303618d.jpg" width="375">
+```{eval-rst}
+.. image:: jpg/0c88c3a4bb202564555b0eebc303618d.jpg
+   :class: kb-img
+   :width: 375px
+```
 
 ---
 

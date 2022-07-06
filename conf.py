@@ -58,4 +58,4 @@ html_title = "Knowledge Base"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_css_files = ['d4121410f79a59b51a20131c314680d8.css']
+html_css_files = ['d03779763a53b501f3157eb553a27bd6.css']
