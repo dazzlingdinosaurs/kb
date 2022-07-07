@@ -7,4 +7,4 @@
 
    .. container:: kb-device-label
 
-      **Apple**
+      **iPhone**

@@ -36,8 +36,6 @@ You may use either your phone number or email address to login
 
 ---
 
-## Apple
+## iPhone
 
 📌 [Login to the CoPilot app on your iPhone](../login-iphone.md)
-
-📌 [Login to the CoPilot app on your Apple Watch](../login-apple-watch.md)

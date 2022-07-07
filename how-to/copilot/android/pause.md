@@ -8,7 +8,7 @@
 
 - On your Android device, open the CoPilot app
 
-- Go to the **Today** tab, then tap the menu icon in the top left
+- Go to the **Today** tab, then tap the menu button in the top left
 
 ```{eval-rst}
 .. image:: jpg/6a19822f44ddfcb55d4dfa2fd96e3b80.jpg
@@ -58,7 +58,7 @@
 
 ---
 
-## Apple
+## iPhone
 
 📌 [Pause your CoPilot Membership Plan](../pause.md)
 

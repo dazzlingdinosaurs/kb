@@ -8,7 +8,7 @@
 
 - On your iPhone, open the CoPilot app
 
-- Go to the **Today** tab, then tap your profile icon in the top left
+- Go to the **Today** tab, then tap your profile picture in the top left
 
 ```{eval-rst}
 .. image:: png/987826ee3b1f79def3297f753c753ff7.png
@@ -31,7 +31,7 @@
 - Tap **Cancel**
 
 ```{eval-rst}
-.. image:: png/60e08715fb91f13f09495c0658cbeaeb.png
+.. image:: png/94f8933bf329172896186a63902c55ae.png
    :class: kb-img
    :width: 375px
 ```

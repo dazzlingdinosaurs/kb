@@ -2,7 +2,7 @@
 
 - On your iPhone, open the CoPilot app
 
-- Go to the **Today** tab, then tap your profile icon in the top left
+- Go to the **Today** tab, then tap your profile picture in the top left
 
 ```{eval-rst}
 .. image:: png/987826ee3b1f79def3297f753c753ff7.png
