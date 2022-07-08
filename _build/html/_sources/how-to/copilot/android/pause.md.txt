@@ -6,42 +6,12 @@
 
 ---
 
-- On your Android device, open the CoPilot app
-
-- Go to the **Today** tab, then tap the menu button in the top left
-
-```{eval-rst}
-.. image:: jpg/6a19822f44ddfcb55d4dfa2fd96e3b80.jpg
-   :class: kb-img
-   :width: 375px
-```
-
-&nbsp;
-
-- Tap **Account settings**
-
-```{eval-rst}
-.. image:: jpg/cdf56ac7c9e5dbfbe88985a3acdb14c5.jpg
-   :class: kb-img
-   :width: 375px
-```
-
-&nbsp;
-
-- Tap **Billing**
-
-```{eval-rst}
-.. image:: jpg/390e6a70de455a83dc8b331adba3798a.jpg
-   :class: kb-img
-   :width: 375px
-```
-
-&nbsp;
+- [Access the Billing Portal](billing.md)
 
 - Tap **Pause**
 
 ```{eval-rst}
-.. image:: jpg/b7dff64b1da6ddddfbf25f5665674949.jpg
+.. image:: jpg/68f26642799845e55f7e8c9ca447a758.jpg
    :class: kb-img
    :width: 375px
 ```
@@ -54,6 +24,10 @@
 .. image:: jpg/04026038e4b461fd3f81206dd6cf2ad0.jpg
    :class: kb-img
    :width: 375px
+```
+
+```{attention}
+You will lose access to the CoPilot app and any other content or features provided through the CoPilot Service until your membership resumes
 ```
 
 ---

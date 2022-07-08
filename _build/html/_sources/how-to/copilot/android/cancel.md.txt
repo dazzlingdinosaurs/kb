@@ -6,42 +6,12 @@
 
 ---
 
-- On your Android device, open the CoPilot app
-
-- Go to the **Today** tab, then tap the menu button in the top left
-
-```{eval-rst}
-.. image:: jpg/6a19822f44ddfcb55d4dfa2fd96e3b80.jpg
-   :class: kb-img
-   :width: 375px
-```
-
-&nbsp;
-
-- Tap **Account settings**
-
-```{eval-rst}
-.. image:: jpg/cdf56ac7c9e5dbfbe88985a3acdb14c5.jpg
-   :class: kb-img
-   :width: 375px
-```
-
-&nbsp;
-
-- Tap **Billing**
-
-```{eval-rst}
-.. image:: jpg/390e6a70de455a83dc8b331adba3798a.jpg
-   :class: kb-img
-   :width: 375px
-```
-
-&nbsp;
+- [Access the Billing Portal](billing.md)
 
 - Tap **Cancel**
 
 ```{eval-rst}
-.. image:: jpg/b7dff64b1da6ddddfbf25f5665674949.jpg
+.. image:: jpg/2526b8c4b6a237ad49d7147cec0cea1c.jpg
    :class: kb-img
    :width: 375px
 ```
