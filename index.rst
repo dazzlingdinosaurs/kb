@@ -1,7 +1,7 @@
 CoPilot Knowledge Base
 ======================
 
-Welcome! Here, you can find how-to and troubleshooting articles for the iPhone, Apple Watch and the CoPilot app
+Welcome! Here, you can find how-to and troubleshooting articles for the iPhone, Apple Watch, Android devices and the CoPilot app
 
 If you cannot find a solution to your issue, please contact info@mycopilot.com
 

@@ -5,7 +5,7 @@
 - Go to the **Today** tab, then tap your profile icon in the top left
 
 ```{eval-rst}
-.. image:: png/987826ee3b1f79def3297f753c753ff7.png
+.. image:: ../how-to/copilot/png/987826ee3b1f79def3297f753c753ff7.png
    :class: kb-img
    :width: 375px
 ```
@@ -15,7 +15,7 @@
 - Tap **Settings**
 
 ```{eval-rst}
-.. image:: png/a3f0b8683eb60cc22e8e7e451527640d.png
+.. image:: ../how-to/copilot/png/a3f0b8683eb60cc22e8e7e451527640d.png
    :class: kb-img
    :width: 375px
 ```

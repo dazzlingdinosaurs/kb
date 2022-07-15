@@ -2,7 +2,7 @@
 
 - If you're stuck at a blue screen displaying the CoPilot logo, follow steps to [Reset the CoPilot app on your iPhone and Apple Watch](reset-copilot.md)
 
-- If you're still stuck, follow steps to [Share health and fitness data with apps](/how-to/iphone/share-health-fitness-data.md)
+- If you're still stuck, follow steps to [Share Health and Fitness Data](/how-to/copilot/share-health-fitness-data.md)
 
     - In the last step, tap **Turn Off All** to disable data sharing with the Apple Health app
 
